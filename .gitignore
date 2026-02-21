@@ -1,0 +1,7 @@
+node_modules/
+build/
+dist/
+*.js
+*.jsx
+src/ui/
+src/frontend/
